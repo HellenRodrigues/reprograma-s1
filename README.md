@@ -1,4 +1,4 @@
-# Semana 2 Front-end 💜
+# Semana 1 Front-end 💜
 # TodasEmTech - Aula de UX  :octocat:
 Primeiro projeto feito no curso da Reprograma (SOBRE UX)
 
